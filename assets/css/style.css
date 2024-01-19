@@ -201,7 +201,7 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 500;
-  color: #37423b;
+  color: #25bd5d;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -290,7 +290,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #37423b;
+  color: #4720d1;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -348,7 +348,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #37423b;
+  color: #1a6e39;
 }
 
 .navbar-mobile a:hover,
@@ -527,13 +527,13 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #37423b;
+  color: #20a156;
 }
 
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #5fcf80;
+  background: #1fd8cf;
   padding: 30px 0;
   color: #fff;
 }
@@ -620,7 +620,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #37423b;
+  color: #2ece69;
 }
 
 /*--------------------------------------------------------------
@@ -645,7 +645,7 @@ section {
 
 .why-us .content .more-btn {
   display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(184, 169, 169, 0.2);
   padding: 6px 30px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -749,17 +749,17 @@ section {
 }
 
 .courses .course-content h3 a {
-  color: #37423b;
+  color: #19d160;
   transition: 0.3s;
 }
 
 .courses .course-content h3 a:hover {
-  color: #5fcf80;
+  color: #2316dd;
 }
 
 .courses .course-content p {
   font-size: 14px;
-  color: #777777;
+  color: #05aa2e;
 }
 
 .courses .course-content h4 {
@@ -791,7 +791,7 @@ section {
   padding-left: 10px;
   font-weight: 600;
   font-size: 16px;
-  color: #5a6c60;
+  color: #37cf6a;
 }
 
 .courses .trainer .trainer-rank {
@@ -1011,7 +1011,7 @@ section {
 }
 
 .course-details .course-info a {
-  color: #657a6d;
+  color: #2b9e57;
 }
 
 /*--------------------------------------------------------------
@@ -1117,12 +1117,12 @@ section {
 }
 
 .events .card-title a {
-  color: #37423b;
+  color: #dd41a1;
   transition: 0.3s;
 }
 
 .events .card-text {
-  color: #5e5e5e;
+  color: #16da67;
 }
 
 .events .read-more a {
