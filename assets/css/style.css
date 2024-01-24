@@ -507,7 +507,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: #12917b;
   font-family: "Poppins", sans-serif;
 }
 
@@ -686,7 +686,7 @@ section {
 
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #23ee4f;
 }
 
 /*--------------------------------------------------------------
@@ -719,7 +719,7 @@ section {
 }
 
 .features .icon-box h3 a {
-  color: #37423b;
+  color: #46c073;
   transition: 0.3s;
 }
 
@@ -741,7 +741,7 @@ section {
 
 .courses .course-content {
   padding: 15px;
-}
+} 
 
 .courses .course-content h3 {
   font-weight: 700;
@@ -749,7 +749,7 @@ section {
 }
 
 .courses .course-content h3 a {
-  color: #19d160;
+  color: #d35555;
   transition: 0.3s;
 }
 
@@ -759,7 +759,7 @@ section {
 
 .courses .course-content p {
   font-size: 14px;
-  color: #05aa2e;
+  color: #0d0e11;
 }
 
 .courses .course-content h4 {
